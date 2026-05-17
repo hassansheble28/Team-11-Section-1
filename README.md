@@ -69,7 +69,7 @@ See the robot in action:
 
 The complete academic design constraints, component selections, and system analysis are detailed in the project report:
 
-* 📥 **[Read the Full Technical Report (PDF)](./EmbeddedProject_Team 11.pdf)**
+* 📥 **[Read the Full Technical Report (PDF)](./EmbeddedProject_Team%2011.pdf)**
 
 
 
